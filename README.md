@@ -28,5 +28,5 @@ This web application allows users to sign up, log in, and upload images securely
 ## Security
 
 This application implements basic security features including:
-- Password hashing with bcrypt
+- Password hashing with crypto
 - JWT for secure authentication
