@@ -34,7 +34,7 @@ This application implements basic security features including:
 
 ## Technologies Used
 
-- React
+- React.js
 - Axios
 - Node.js
 - Express.js
