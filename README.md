@@ -14,7 +14,7 @@ This web application allows users to sign up, log in, and upload images securely
 ## Features
 
 - User Authentication (Sign Up / Log In)
-- Secure password storage with cypherjs
+- Secure password storage with crypto.js
 - JWT-based session management
 - Image upload functionality with Multer
 - Responsive ReactJS frontend
